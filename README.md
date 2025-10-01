@@ -2,4 +2,4 @@
 
 New Love Letter
 
-![Cute Cat](https://placekitten.com/300/300)
+![Cute Cat](https://placekitten.com/300/300) nice picture
