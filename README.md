@@ -1,5 +1,6 @@
-# Asia and Nobani's collab repo
+# Cat Meme
 
-New Love Letter
+When you have a billion assignments due.
 
-![Cute Cat](https://placekitten.com/300/300) nice picture
+![Funny Cat](images/cat.gif)
+
